@@ -50,7 +50,7 @@ const Zharfan = {
 <h3 align="center">🛠️ Languages & Tools</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,java,nextjs,react,postgres,mysql,bun,neovim,tmux,git,linux&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,java,nextjs,react,vuejs,elysiajs,postgres,mysql,bun,neovim,tmux,git,arch&perline=7" />
   </a>
 </div>
 
