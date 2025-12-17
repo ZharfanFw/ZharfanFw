@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/ZharfanFw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GANTI_DENGAN_USERNAME_MU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_DENGAN_USERNAME_MU&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZharfanFw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZharfanFw&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
