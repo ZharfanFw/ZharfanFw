@@ -1,39 +1,68 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Developer;Arch+Linux+Enthusiast;Neovim+User" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <h3>Code. Configure. Compile. Repeat.</h3>
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/ZharfanFw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZharfanFw&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZharfanFw&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
-<br/>
-
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/ElysiaJS-FE4E7E?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
-  <br/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Zharfan;Fullstack+Developer;Neovim+User" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://instagram.com/zharfanfw">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+<table border="0" width="100%">
+<tr>
+<td>
+
+<h3 align="left">👨‍💻 About Me</h3>
+<pre>
+const Zharfan = {
+    pronouns: "He/Him",
+    code: [
+        "TypeScript", "JavaScript",
+        "C", "C++", "Java"
+    ],
+    askMeAbout: [
+        "Web Dev", "Mobile Apps",
+        "Neovim Config", "Arch Linux"
+    ],
+    technologies: {
+        frontEnd: ["NextJS", "React", "Tailwind"],
+        backEnd: ["ElysiaJS", "PostgreSQL"],
+        tools: ["Tmux", "Git", "Docker"]
+    },
+    currentFocus: "Building scalable apps",
+    funFact: "I can exit Vim without googling"
+};
+</pre>
+
+</td>
+<td>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZharfanFw&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
+  <br/><br/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZharfanFw&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<h3 align="center">🛠️ Languages & Tools</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,java,nextjs,react,postgres,mysql,bun,neovim,tmux,git,linux&perline=7" />
   </a>
+</div>
+
+<br/>
+
+<h3 align="center">🐍 Contribution Graph</h3>
+<div align="center">
+  <img src="https://github.com/ZharfanFw/ZharfanFw/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
