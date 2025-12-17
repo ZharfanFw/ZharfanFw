@@ -33,8 +33,7 @@
 <br/>
 
 <div align="center">
-  <p><i>"I use Arch, btw."</i></p>
-  <a href="https://instagram.com/username_ig_mu">
+  <a href="https://instagram.com/zharfanfw">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </div>
