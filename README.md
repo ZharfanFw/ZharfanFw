@@ -50,19 +50,6 @@ const Zharfan = {
 <h3 align="center">🛠️ Languages & Tools</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,java,nextjs,react,vuejs,elysia,postgres,mysql,bun,neovim,git,arch&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,java,nextjs,react,vuejs,tailwindcss,elysia,postgres,mysql,lua,bun,neovim,git,arch&perline=7" />
   </a>
-</div>
-
-<br/>
-
-<h3 align="center">🐍 Contribution Graph</h3>
-<div align="center">
-  <img src="https://github.com/ZharfanFw/ZharfanFw/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
