@@ -10,34 +10,39 @@
 <td>
 
 <h3 align="left">👨‍💻 About Me</h3>
-<pre>
+
+```typescript
 const Zharfan = {
-    pronouns: "He/Him",
-    code: [
-        "TypeScript", "JavaScript",
-        "C", "C++", "Java"
-    ],
-    askMeAbout: [
-        "Web Dev", "Mobile Apps",
-        "Neovim Config", "Arch Linux"
-    ],
-    technologies: {
-        frontEnd: ["NextJS", "React", "Tailwind"],
-        backEnd: ["ElysiaJS", "PostgreSQL"],
-        tools: ["Tmux", "Git", "Docker"]
-    },
-    currentFocus: "Building scalable apps",
-    funFact: "I can exit Vim without googling"
+  pronouns: "He/Him",
+  code: [
+    "TypeScript",
+    "JavaScript",
+    "C",
+    "Java"
+  ],
+  askMeAbout: [
+    "Web Dev",
+    "Mobile Apps",
+    "Neovim Config",
+    "Arch Linux"
+  ],
+  technologies: {
+    frontEnd: ["NextJS", "React", "Tailwind"],
+    backEnd:  ["ElysiaJS", "PostgreSQL"],
+    tools:    ["Tmux", "Git", "Docker"]
+  },
+  currentFocus: "Building scalable apps",
+  funFact: "I can exit Vim without googling"
 };
-</pre>
+```
 
 </td>
 <td>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZharfanFw&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZharfanFw&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true"/>
   <br/><br/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZharfanFw&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZharfanFw&layout=compact&theme=gruvbox&hide_border=true"/>
 </div>
 
 </td>
