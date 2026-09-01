@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zharfan
+# Zharfan Faza Wibawa
 
 **Fullstack Developer** · Computer Science Student
 
@@ -35,10 +35,9 @@
 ### 👋 About Me
 
 I'm a Computer Science student who enjoys going deep into how
-things work under the hood — from backend systems to the Linux
+things work under the hood, from backend systems to the Linux
 boxes they run on. Currently exploring backend & DevOps, and
-running my own side project turning a coffee shop into a
-full-stack testbed.
+running my own side project.
 
 
 ```typescript
